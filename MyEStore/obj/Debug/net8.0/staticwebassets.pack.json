@@ -1,0 +1,1565 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyEStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyEStore.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\ao-lot-nu.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\ao-lot-nu.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\ao-so-mi-nu.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\ao-so-mi-nu.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\ao-thun-nam.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\ao-thun-nam.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\balo-cong-so.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\balo-cong-so.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\balo-hoc-sinh.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\balo-hoc-sinh.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\ban-chai-dien.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\ban-chai-dien.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\ban-ui.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\ban-ui.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\banh-bao.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\banh-bao.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\banh-kem.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\banh-kem.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\banh-mi.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\banh-mi.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\bap-cai.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\bap-cai.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\bo-do-boi.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\bo-do-boi.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\buoi-da-xanh.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\buoi-da-xanh.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\ca-chua-bi.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\ca-chua-bi.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\ca-hoi-fillet.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\ca-hoi-fillet.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\ca-hoi.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\ca-hoi.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\ca-rot.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\ca-rot.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\cam-sanh.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\cam-sanh.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\cha-lua.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\cha-lua.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\chan-bong.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\chan-bong.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\chanh-leo.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\chanh-leo.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\chanh-tuoi.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\chanh-tuoi.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\chao-chong-dinh.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\chao-chong-dinh.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\chocolate.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\chocolate.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\dau-goi.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\dau-goi.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\dua-hau.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\dua-hau.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\dua-leo.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\dua-leo.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\dua-luoi.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\dua-luoi.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\gel-tao-kieu-toc.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\gel-tao-kieu-toc.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\giay-cao-got.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\giay-cao-got.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\giay-the-thao.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\giay-the-thao.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\goi-nam.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\goi-nam.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\gung.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\gung.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\hanh-tay.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\hanh-tay.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\hat-nem.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\hat-nem.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\hau.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\hau.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\ke-mat.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\ke-mat.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\kem-chong-nang.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\kem-chong-nang.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\kem-duong-da.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\kem-duong-da.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\kem-tuoi.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\kem-tuoi.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\kep-toc.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\kep-toc.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\khal-trang-y-te.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\khal-trang-y-te.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\khoai-lang-nhat.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\khoai-lang-nhat.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\khoai-tay.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\khoai-tay.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\mat-na-duong-da.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\mat-na-duong-da.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\may-cao-rau.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\may-cao-rau.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\may-duoi-toc.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\may-duoi-toc.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\may-ep.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\may-ep.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\may-giat.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\may-giat.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\may-say-toc.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\may-say-toc.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\may-uon-toc.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\may-uon-toc.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\may-xay-sinh-to.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\may-xay-sinh-to.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\mu-bao-hiem.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\mu-bao-hiem.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\muop-dang.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\muop-dang.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\ngo-ngot.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\ngo-ngot.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\nhan-hat-sen.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\nhan-hat-sen.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\nho-den.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\nho-den.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\noi-com-dien.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\noi-com-dien.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\nuoc-hoa.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\nuoc-hoa.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\nuoc-mam.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\nuoc-mam.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\ot-chuong.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\ot-chuong.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\ot-hiem.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\ot-hiem.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\phan-phu.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\phan-phu.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\phan-trang-diem.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\phan-trang-diem.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\pizza.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\pizza.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\quan-jean.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\quan-jean.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\quan-lot-nu.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\quan-lot-nu.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\rau-cai-ngot.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\rau-cai-ngot.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\rau-cu.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\rau-cu.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\rau-muong.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\rau-muong.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\sap-vuot-toc.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\sap-vuot-toc.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\shampoo.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\shampoo.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\sinh-to-bo.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\sinh-to-bo.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\so-diep.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\so-diep.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\son-moi.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\son-moi.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\sua-tuoi.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\sua-tuoi.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\tao-do.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\tao-do.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\tao-my.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\tao-my.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\thit-bo.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\thit-bo.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\thit-ga.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\thit-ga.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\thit-vien-chien.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\thit-vien-chien.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\toi-ly-son.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\toi-ly-son.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\toothpaste.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\toothpaste.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\tre-em-so-sinh.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\tre-em-so-sinh.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\trung-ga.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\trung-ga.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\tui-the-thao.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\tui-the-thao.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\tui-xach-nu.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\tui-xach-nu.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\vay-da-hoi.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\vay-da-hoi.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\vay-dam-nu.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\vay-dam-nu.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\xa-phong-tam.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\xa-phong-tam.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\HangHoa\\xuc-xich.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\xuc-xich.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\KhachHang\\Author.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\Author.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\KhachHang\\Penguins.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\Penguins.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\KhachHang\\android_300200.png",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\android_300200.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\KhachHang\\man.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\man.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\KhachHang\\woman.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\woman.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Loai11.jpeg",
+      "PackagePath": "staticwebassets\\Hinh\\Loai11.jpeg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Loai\\Accept.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Accept.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Loai\\Alarm.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Alarm.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Loai\\Anchor.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Anchor.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Loai\\Bell.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Bell.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Loai\\Best.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Best.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Loai\\Billboard.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Billboard.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Loai\\Bomb.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Bomb.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Loai\\Brick house.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Brick house.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Loai\\Bricks.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Bricks.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Loai\\Buddy.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Buddy.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Loai\\Certificate.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Certificate.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Loai\\Dice.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Dice.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Loai\\Dollar.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Dollar.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Loai\\Favourites.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Favourites.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Loai\\Funny.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Funny.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Loai\\Heart.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Heart.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Loai\\Microsoft.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Microsoft.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Loai\\Unlock.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Unlock.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Loai\\agenda_1.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\agenda_1.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Loaiimages.jpeg",
+      "PackagePath": "staticwebassets\\Hinh\\Loaiimages.jpeg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\NhaCC\\Acer_logo-300x300.gif",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\Acer_logo-300x300.gif"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\NhaCC\\amd-logo.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\amd-logo.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\NhaCC\\apple.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\apple.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\NhaCC\\dell-logo.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\dell-logo.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\NhaCC\\dell-logo2.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\dell-logo2.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\NhaCC\\hp-logo.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\hp-logo.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\NhaCC\\intel-logo.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\intel-logo.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\NhaCC\\motorola.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\motorola.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\NhaCC\\nokia.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\nokia.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\NhaCC\\samsung-logo-2.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\samsung-logo-2.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\NhaCC\\samsung.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\samsung.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\NhaCC\\shopping_cart.png",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\shopping_cart.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\NhaCC\\sonny-ericsson.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\sonny-ericsson.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Others\\duc.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\Others\\duc.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Others\\ka.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\Others\\ka.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Others\\khang.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\Others\\khang.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Others\\khoa.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\Others\\khoa.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\Others\\shopping_cart.png",
+      "PackagePath": "staticwebassets\\Hinh\\Others\\shopping_cart.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\divider.gif",
+      "PackagePath": "staticwebassets\\Hinh\\divider.gif"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Accept.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Accept.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Add to basket.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Add to basket.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Add.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Add.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Address book.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Address book.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Alarm.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Alarm.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Anchor.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Anchor.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Application form.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Application form.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Bar chart.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Bar chart.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Basket.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Basket.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Bell.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Bell.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Best.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Best.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Billboard.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Billboard.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Bluetooth.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Bluetooth.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Bomb.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Bomb.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Book.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Book.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Bookmark.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Bookmark.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Box.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Box.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Boy.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Boy.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Brick house.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Brick house.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Bricks.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Bricks.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Brief case.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Brief case.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Brightness.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Brightness.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Bubble.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Bubble.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Buddy.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Buddy.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Cable.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Cable.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Calculator.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Calculator.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Calendar.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Calendar.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Call.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Call.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Camera.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Camera.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Card file.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Card file.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Cash register.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Cash register.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Cat.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Cat.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Certificate.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Certificate.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Clien list.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Clien list.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Clipboard.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Clipboard.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Clock.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Clock.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Closed door.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Closed door.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Closed folder.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Closed folder.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Coin.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Coin.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Coins.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Coins.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Color wheel.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Color wheel.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Comment.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Comment.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Comments.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Comments.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Company.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Company.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Computer.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Computer.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Conference.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Conference.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Connect.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Connect.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Construction.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Construction.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Contrast.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Contrast.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Control panel.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Control panel.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Create.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Create.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Database.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Database.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Date.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Date.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Delete.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Delete.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Desktop.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Desktop.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Diagram.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Diagram.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Dice.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Dice.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Disconnect.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Disconnect.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Discussion.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Discussion.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Document.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Document.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Documents.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Documents.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Dog.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Dog.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Dollar.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Dollar.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Down.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Down.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Download.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Download.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Edit.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Edit.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Euro.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Euro.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Exit button.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Exit button.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Exit.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Exit.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Favourites.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Favourites.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Fax.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Fax.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Flash drive.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Flash drive.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Flow block.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Flow block.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Free.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Free.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Friends.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Friends.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Full basket.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Full basket.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Funny.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Funny.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Game controller.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Game controller.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Gear.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Gear.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Genealogy.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Genealogy.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Gift.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Gift.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Girl.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Girl.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Globe.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Globe.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Handshake.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Handshake.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Happy.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Happy.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Hard disk.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Hard disk.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Heart.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Heart.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Help.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Help.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Hierarchy.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Hierarchy.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Home.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Home.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Hungup.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Hungup.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Industry.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Industry.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Info.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Info.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Key.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Key.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Label.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Label.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Left.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Left.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Lego brick.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Lego brick.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Letter.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Letter.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\List.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\List.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Lists.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Lists.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Lock.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Lock.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Log out.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Log out.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Login.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Login.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Mail.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Mail.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Microsoft.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Microsoft.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Mobile phone.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Mobile phone.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Money.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Money.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Monitor.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Monitor.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Mouse.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Mouse.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Music.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Music.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\No.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\No.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Notes.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Notes.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Numbered list.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Numbered list.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\OK.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\OK.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Online.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Online.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Open door.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Open door.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Open file.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Open file.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Open folder.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Open folder.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Open letter.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Open letter.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Open lock.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Open lock.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Payment.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Payment.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Peace.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Peace.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Pets.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Pets.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Phone.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Phone.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Piggy bank.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Piggy bank.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Piggy.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Piggy.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Pointer.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Pointer.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Pound.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Pound.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Price list.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Price list.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Print preview.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Print preview.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Print.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Print.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Printer.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Printer.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Problem.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Problem.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Properties.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Properties.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\RSS.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\RSS.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Red star.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Red star.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Refresh.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Refresh.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Remove from basket.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Remove from basket.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Report.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Report.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Right.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Right.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Rouble.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Rouble.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Sad.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Sad.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Safe.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Safe.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Save as.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Save as.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Save.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Save.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Scroll list.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Scroll list.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Search.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Search.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Shield.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Shield.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Smile.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Smile.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Software.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Software.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Statistics.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Statistics.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Stop.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Stop.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Task list.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Task list.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Telephone.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Telephone.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Text.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Text.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Tick.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Tick.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\To do list.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\To do list.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Trash.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Trash.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Unknown person.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Unknown person.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Unlock.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Unlock.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Unordered list.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Unordered list.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Up.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Up.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Upload.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Upload.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\User group.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\User group.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\User.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\User.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Users.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Users.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Wallet.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Wallet.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Warning.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Warning.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Weather.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Weather.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Wireless.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Wireless.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Wizard.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Wizard.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Yen.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Yen.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Yin-Yang.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Yin-Yang.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Zoom in.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Zoom in.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Zoom out.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Zoom out.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\Zoom.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Zoom.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\daidien.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\daidien.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\daidien.webp",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\daidien.webp"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\eng.gif",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\eng.gif"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\messenger.avif",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\messenger.avif"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\messenger.webp",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\messenger.webp"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\Hinh\\icons\\vit.gif",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\vit.gif"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\css\\Header.css",
+      "PackagePath": "staticwebassets\\css\\Header.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\css\\Home.css",
+      "PackagePath": "staticwebassets\\css\\Home.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\css\\PDetail.css",
+      "PackagePath": "staticwebassets\\css\\PDetail.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\css\\PHome.css",
+      "PackagePath": "staticwebassets\\css\\PHome.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\css\\livechat.cs",
+      "PackagePath": "staticwebassets\\css\\livechat.cs"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\css\\livechat.css",
+      "PackagePath": "staticwebassets\\css\\livechat.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\font\\vniongdo.ttf",
+      "PackagePath": "staticwebassets\\font\\vniongdo.ttf"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyEStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyEStore.props",
+      "PackagePath": "build\\MyEStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyEStore.props",
+      "PackagePath": "buildMultiTargeting\\MyEStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyEStore.props",
+      "PackagePath": "buildTransitive\\MyEStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
