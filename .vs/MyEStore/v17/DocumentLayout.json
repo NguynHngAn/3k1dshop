@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\khang\\Shop3K1D-EC\\MyEStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|d:\\h\u1ECDc k\u1EF3 10\\chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\khang\\shop3k1d-ec\\myestore\\myestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|solutionrelative:myestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|d:\\h\u1ECDc k\u1EF3 10\\chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\khang\\shop3k1d-ec\\myestore\\myestore\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|solutionrelative:myestore\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|d:\\h\u1ECDc k\u1EF3 10\\chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\khang\\shop3k1d-ec\\myestore\\myestore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|solutionrelative:myestore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|d:\\h\u1ECDc k\u1EF3 10\\chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\khang\\shop3k1d-ec\\myestore\\myestore\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|solutionrelative:myestore\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|d:\\h\u1ECDc k\u1EF3 10\\chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\khang\\shop3k1d-ec\\myestore\\myestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|solutionrelative:myestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|d:\\h\u1ECDc k\u1EF3 10\\chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\khang\\shop3k1d-ec\\myestore\\myestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|solutionrelative:myestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\Program.cs",
               "RelativeDocumentMoniker": "MyEStore\\Program.cs",
@@ -68,26 +68,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "appsettings.Production.json",
               "DocumentMoniker": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\appsettings.Production.json",
               "RelativeDocumentMoniker": "MyEStore\\appsettings.Production.json",
               "ToolTip": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\appsettings.Production.json",
               "RelativeToolTip": "MyEStore\\appsettings.Production.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBkAAACQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-25T07:17:56.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\appsettings.json",
               "RelativeDocumentMoniker": "MyEStore\\appsettings.json",
               "ToolTip": "D:\\H\u1ECDc k\u1EF3 10\\Chi\u1EBFn l\u01B0\u1EE3c th\u01B0\u01A1ng m\u1EA1i \u0111i\u1EC7n t\u1EED\\khang\\Shop3K1D-EC\\MyEStore\\MyEStore\\appsettings.json",
               "RelativeToolTip": "MyEStore\\appsettings.json",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAWAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-25T07:06:22.343Z",
               "EditorCaption": ""
