@@ -267,3 +267,4 @@ D:\Học kỳ 10\Chiến lược thương mại điện tử\khang\Shop3K1D-EC\M
 D:\Học kỳ 10\Chiến lược thương mại điện tử\khang\Shop3K1D-EC\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.pdb
 D:\Học kỳ 10\Chiến lược thương mại điện tử\khang\Shop3K1D-EC\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.genruntimeconfig.cache
 D:\Học kỳ 10\Chiến lược thương mại điện tử\khang\Shop3K1D-EC\MyEStore\MyEStore\obj\Debug\net8.0\ref\MyEStore.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\khang\Shop3K1D-EC\MyEStore\MyEStore\bin\Debug\net8.0\appsettings.Production.json
